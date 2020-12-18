@@ -1,5 +1,5 @@
 
-package uk.ac.cam.mk2030.fjava.tick4;
+package uk.ac.cam.mk2030.fjava.server;
 
 // A FIFO queue of items of type T
 public interface MessageQueue<T> {
